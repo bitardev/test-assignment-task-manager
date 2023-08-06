@@ -11,8 +11,8 @@ cd dist
 
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m 'New deployment'
 
-git push -f git@github.com:bitardev/test-assignment-task-manager.git master:gh-pages
+git push -f git@github.com:bitardev/test-assignment-task-manager.git main:gh-pages
 
 cd -
