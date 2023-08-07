@@ -11,7 +11,7 @@ cd dist
 
 git init
 git add -A
-git commit -m 'New deployment to Github Pages'
+git commit -m 'New deployment'
 
 git push -f git@github.com:bitardev/test-assignment-task-manager.git main:gh-pages
 
